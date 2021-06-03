@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Considerations humbly offered to the Honourable the knights, citizens, and burgesses in Parliament assembled, shewing the necessity and benefit of an act of Parliament, to incorporate a certain select number of persons, for the more beautiful and useful paving and cleansing the streets in the cities of London and Westminster, and suburbs and liberties thereof, and out-parishes in the county of Middlesex, and in the borough of southwark, and other places within the weekly bills of mortality.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B20637</idno><idno type="EEBO-CITATION">99893674</idno>
+  <idno type="VID">189482</idno>
+  <idno type="EEBO-PROQUEST">2240931359</idno>
+  
+            <idno type="STC">Wing C5909CD</idno>
+            <idno type="STC">Interim Tract Supplement Guide 1888.c.11[55]</idno>
+            <idno type="STC">ESTC T146874</idno>
+            <idno type="PROQUEST">ocm99893674</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99893674e"/>
+            <note>(EEBO-TCP ; phase 2, no. B20637)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 189482)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C16:2[60])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Considerations humbly offered to the Honourable the knights, citizens, and burgesses in Parliament assembled, shewing the necessity and benefit of an act of Parliament, to incorporate a certain select number of persons, for the more beautiful and useful paving and cleansing the streets in the cities of London and Westminster, and suburbs and liberties thereof, and out-parishes in the county of Middlesex, and in the borough of southwark, and other places within the weekly bills of mortality.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) .   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1700?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint suggested by Wing; ESTC suggests date of 1701?.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Street cleaning --  England --  London --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  William and Mary, 1689-1702 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:189482:1"/>
+            <head>CONSIDERATIONS Humbly Offered to the <hi>Honourable the Knights, Citizens, and Burgesses in Parliament assembled, shewing the Necessity and Benefit of an Act of Parliament, to Incorporate a certain select Number of Persons, for the more Beautiful and Ʋseful Paving and Cleansing the Streets in the Cities of</hi> London <hi>and</hi> West<g ref="char:EOLhyphen"/>minster, <hi>and Suburbs and Liberties thereof, and Out-Parishes in the County of</hi> Middlesex, <hi>and in the Borough of</hi> Southwark, <hi>and other Places within the Weekly Bills of Mortality.</hi>
+            </head>
+            <p>
+               <hi>IT hath</hi> been a Matter of Wonder to all Travellers that have resorted to the City of <hi>London,</hi> to observe the vast Riches, and beautiful Structures therein, and yet that the Streets thereof should lie deformedly Paved, and unwholsomly Dirty; which being duly remedied, must needs tend much to the Heathfulness as well as Beauty of the City, of which likewise the whole Kingdom seem sensible, by the several Acts of Par<g ref="char:EOLhyphen"/>liament from time to time made, for the Paving and Cleansing the said Streets, none of which have hitherto had the desired Effect; for that the said Acts do only inflict Penalties where there is a Defect, but have not provided Means to make it the particular Business and Interest of any Persons to have it effected, neither can the same ever be brought to any perfection, but by a General Undertaking, which all the Cities in <hi>Europe,</hi> that are fa<g ref="char:EOLhyphen"/>mous for their beautiful Pavements and Cleanness, have by Experience found, and that for these Reasons:</p>
+            <p n="1">I. <hi>The</hi> Quantity that is to be Paved and Cleansed is so large, that to have it done and kept as it ought, requires a very great Sum to be raised and appropriated to that only use.</p>
+            <p n="2">II. <hi>If</hi> every one Pave only before his own Door, there never can be a true Level, or regular Current ob<g ref="char:EOLhyphen"/>served, each one Paving at several times, according to his private Interest or Fancy, higher or lower, to ac<g ref="char:EOLhyphen"/>commodate some Threshold, Cellar-door, Cross-kennel, or some irregular Ascent or Fall, he hath no mind to alter, without any regard to the Publick: So that it is by this means impossible for a Common Line to be ob<g ref="char:EOLhyphen"/>served, or that there should be any raising or abating, turning, or any ways altering a Current, though never so needful.</p>
+            <p n="3">III. <hi>Many</hi> when they Pave, have so little time in their Houses, that they purposely do it slightly to last their own time only, and some out of Covetousness, will either not Pave at all, or so very little, that the Streets are nothing the better.</p>
+            <p n="4">IV. <hi>Where</hi> the Paviours are allowed a sufficient Price to do their Work well, yet notwithstanding they either put in such bad Stuff, or work it so slightly that it soon lieth rough and disorderly again, it being their Interest to have the Work rather often doing, than well done, and therefore impoly unskilful Persons, who will work at the cheapest Rate. And also by raising every new Pavement higher than their Neighbors, as is their con<g ref="char:EOLhyphen"/>stant Practice, the adjoyning Pavements are quickly spoiled. Whereas, if it be done by a Society, that are to continue the doing thereof, it will be their Business and Interest to imploy the most skilful and experienced Per<g ref="char:EOLhyphen"/>sons, and to form and keep each Street with a perfect and regular Level and Current, and to have the Stones of a true size, and of the most lasting sort; and likewise, that they shall be laid in such Stuff, in which they will longest abide firm; by which means it is only possible to have the Streets lie even, and handsomly paved, and by this means they may be swept clean, and kept neat; but otherwise it is impossible they should.</p>
+            <p>
+               <hi>'Tis</hi> likewise absolutely necessary, that the Sweeping the said Streets be performed at the Charge and Care of the Undertakers, for otherwise it will continue as now it is, that scarce any Three of the Inhabitants will sweep before their Door at the same time, and some will not be got to sweep before the Dirt-Carts be gone, whereby the whole Street will immediately be made dirty again.</p>
+            <p>
+               <hi>The</hi> Undertakers are willing to be obliged, to have the whole Work regularly and ornamentally done at One Shilling a Yard Square, for new Laying in all such places as are already paved; and for all such places as have not been paved, the same being at the Charge of the Parish first Cleansed, and Gravelled fit for Pavement, the Sum of 4 <hi>s.</hi> 6 <hi>d.</hi> for every Yard Square, that shall be paved with Scapel-stone; and 1 <hi>s.</hi> 4 <hi>d.</hi> for every Yard Square that shall be paved with common Pavement, each Inhabitant being to pay proportionable to his respe<g ref="char:EOLhyphen"/>ctive Part or Share, as soon as his said Part or Share shall be finished: And the Undertakers are from time to time, at all times afterwards, to be at the Charge of Sweeping the said Pavement, and Gathering the Dirt in the Street into Heaps, ready for the Scavenger to carry away, and to keep the said Pavement in good and suf<g ref="char:EOLhyphen"/>ficient Repair, and well and duly Swept, at Four Pence Half-penny a Yard Square, which is cheaper by far than it now stands the Inhabitants in, though in this rude and slovenly fashion, and though they themselves are at the Charge and Trouble of Sweeping the same. And by this means the Inhabitants will be freed from Indictments and Penalties they are now troubled with. This way will likewise prevent the many Disputes that will arise from the Inequality of Parish Rates.</p>
+            <p>
+               <hi>And the</hi> Undertakers are to be obliged at their own Costs and Charges, to carry away the Dirt, Dust, Ashes, and Filth of the Houses, Streets, Lanes, and Alleys, and at all times during the said Term, to keep clean the said Streets, and to do whatever relates to the Scavenger, at the Price is now paid for the same.</p>
+            <p>In case there be any defect either in the Paving or Cleaning, if the same be not by the Undertakers immedi<g ref="char:EOLhyphen"/>ately reformed, upon Notice, they are willing to be subject to such Fine as shall be adjudged reasonable; and besides the usual Remedy of Distress for the same, are willing that the Payments from the several Wards or Pa<g ref="char:EOLhyphen"/>rishes, be stopped, till the respective Fines be paid.</p>
+            <pb facs="tcp:189482:2"/>
+         </div>
+      </body>
+   </text>
+</TEI>
